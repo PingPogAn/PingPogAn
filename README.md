@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flooffen
 - 👀 I’m interested in making discord bots
 - 🌱 I’m currently learning python and lua
-- 💞️ I’m looking to collaborate on lua scripting for roblox
+- 💞️ I’m looking to collaborate on my discord bot
 - 📫 Reach me on discord at Flooffen#1175
 
 <!---
