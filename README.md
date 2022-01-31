@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Flooffen
 - 👀 I’m interested in making discord bots
 - 🌱 I’m currently learning python and lua
-- 💞️ I’m looking to collaborate on my discord bot
-- 📫 Reach me on discord at Flooffen#1175
+- 💞️ I’m looking to collaborate on my ---
+- ⚠ If you find this page from a discord account, unfriend/ block/ report imediately, My discord account has been hacked and the connections is still on the page.
 
 <!---
 PingPogAn/PingPogAn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
